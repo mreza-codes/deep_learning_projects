@@ -1,7 +1,6 @@
 MNIST Digit Classification  — PyTorch
 This repository contains two separate implementations for handwritten digit classification on the MNIST dataset using PyTorch:
 
-
 CNN (Convolutional Neural Network) model
 model includes:
 
