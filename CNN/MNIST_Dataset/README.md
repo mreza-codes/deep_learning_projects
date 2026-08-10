@@ -27,6 +27,7 @@ Inference on external images (1.png, 3.png, 5.png)
 
 ##License: This project is intended for educational and research purposes.
 
+
 Dataset Handling
 You do not need to download MNIST manually.
 
